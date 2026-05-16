@@ -1,4 +1,4 @@
-# 
+# updated Polymarket Addon | volume-analysis + prediction-market-scanning is the best Polymarket addon, featuring volume-analysis and prediction-market-scanning. Smart, fast, and
 
 
 
